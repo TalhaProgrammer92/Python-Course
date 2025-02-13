@@ -1,5 +1,3 @@
-Here's a cool README for your Python course repository:  
-
 ---
 
 # 🚀 Python Course for Beginners  
