@@ -1,6 +1,6 @@
 # Day 1 - Homework
 
-Write a python program to display the following output
+Write a python program to display the following output:
 ```txt
 My name is [your-name]
 I love Python
