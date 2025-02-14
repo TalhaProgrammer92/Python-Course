@@ -21,7 +21,7 @@ Watch the full course on my YouTube channel: Program with Clarity https://www.yo
 ## 🚀 How to Use This Repo  
 1. **Clone this repository**  
    ```sh
-   git clone https://github.com/YourUsername/Python-Course.git
+   git clone https://github.com/TalhaProgrammer92/Python-Course.git
    ```  
 2. **Navigate to the desired lesson folder**  
 3. **Run the Python scripts**  
